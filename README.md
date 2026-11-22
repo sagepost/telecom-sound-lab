@@ -4,7 +4,9 @@ A browser-based playground for telephone, radio, and telecommunications sounds, 
 
 ## Try it
 
-Open [index.html](index.html) in a browser, or enable GitHub Pages for this repository using **Settings → Pages → Deploy from a branch → main / (root)**.
+**[Launch Telecommunications Sound Lab](https://sagepost.github.io/telecom-sound-lab/)**
+
+You can also open [index.html](index.html) directly in a browser. The live app is hosted with GitHub Pages.
 
 The application is a single HTML file. It loads third-party speech engines and model data over the internet as needed. Speech generation with Kokoro runs locally in your browser once its resources have loaded.
 
